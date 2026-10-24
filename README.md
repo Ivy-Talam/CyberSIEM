@@ -2,9 +2,9 @@
 
 A lightweight SIEM-style log analyzer written in pure Python.
 Parses raw log files, classifies events by threat severity, and
-prints a colour-coded terminal report — no third-party dependencies.
+prints a colour-coded terminal report ; no third-party dependencies.
 
-Built as a portfolio project by Ivy | Zero Day Diary
+Built as a portfolio project by Ivy 
 
 ---
 
