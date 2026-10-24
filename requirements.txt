@@ -1,0 +1,3 @@
+# CyberSIEM uses Python stdlib only — no pip installs required.
+# Dev dependency for running tests:
+pytest>=7.0

@@ -1,0 +1,37 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Pytest cache
+.pytest_cache/
+.cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# VS Code settings
+.vscode/
+
+# macOS junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# Log files you don't want to accidentally commit
+*.log
+!sample_logs/sample.log
+
+# Environment variables (never commit secrets!)
+.env
+*.env
